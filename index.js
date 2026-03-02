@@ -1,1 +1,0 @@
-!AbortController && (global.AbortController = require('abort-controller').AbortController);
